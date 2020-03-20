@@ -14,6 +14,7 @@
 		F780A63E24252C31006582BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F780A63D24252C31006582BE /* Assets.xcassets */; };
 		F780A64124252C31006582BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F780A63F24252C31006582BE /* LaunchScreen.storyboard */; };
 		F780A64424252C31006582BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F780A64324252C31006582BE /* main.m */; };
+		F780A64C2425334D006582BE /* DegreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F780A64B2425334D006582BE /* DegreeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		F780A64024252C31006582BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F780A64224252C31006582BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F780A64324252C31006582BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F780A64A2425334D006582BE /* DegreeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DegreeViewController.h; sourceTree = "<group>"; };
+		F780A64B2425334D006582BE /* DegreeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DegreeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				F780A63524252C2D006582BE /* SceneDelegate.m */,
 				F780A63724252C2D006582BE /* ViewController.h */,
 				F780A63824252C2D006582BE /* ViewController.m */,
+				F780A64A2425334D006582BE /* DegreeViewController.h */,
+				F780A64B2425334D006582BE /* DegreeViewController.m */,
 				F780A63A24252C2D006582BE /* Main.storyboard */,
 				F780A63D24252C31006582BE /* Assets.xcassets */,
 				F780A63F24252C31006582BE /* LaunchScreen.storyboard */,
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F780A64C2425334D006582BE /* DegreeViewController.m in Sources */,
 				F780A63924252C2D006582BE /* ViewController.m in Sources */,
 				F780A63324252C2D006582BE /* AppDelegate.m in Sources */,
 				F780A64424252C31006582BE /* main.m in Sources */,
